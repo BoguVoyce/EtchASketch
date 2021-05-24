@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+    background-color: #ededed;
+    font-size: 1.6rem;
+    text-align: center;
+  }
+.container{
+    padding: 1rem;
+}
+.grid {
+    display: grid;
+    max-width: 600px;
+    min-height: 600px;
+    margin: 2rem auto;
+    border: 2px solid #222;
+}
+.grid-element{
+    border: steelblue 1px solid;
+    background-color: #ededed;
+} 
