@@ -1,3 +1,3 @@
 # EtchASketch
-This is a project for the fundamentals curriculum from "The Odin Project".
+Fun project that changes the color of the tile when hovered.
 ## **[Live Preview](https://bogvoicescu.github.io/EtchASketch/)** :smiley:
